@@ -1,2 +1,10 @@
 .jovianrc
 //datasets
+Plate_examples
+__pycache__
+local_utils.py
+wpod-net.h5
+wpod-net.json
+License_character_recognition_weight.h5
+MobileNets_character_recognition.json
+license_character_classes.npy
